@@ -1,12 +1,12 @@
 ## LEAKER
 ### A framework for LEakage AttacK Evaluation on Real-world data
 
-###### Anonymous repository for NDSS'22 submission.
+###### Anonymous repository for EuroS&P'22 submission.
 
 ---
 
 #### Requirements
-The framework has been written in Python 3.8. To install all requirements, you can use the `requirments.txt` file:
+The framework has been written in Python 3.8. To install all requirements, you can use the `requirements.txt` file:
 
     pip install -r requirements.txt
     
